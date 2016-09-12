@@ -1,0 +1,165 @@
+
+
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22-lug-2016, 19.39.35
+    Author     : checco
+*/
+
+/* stili hardcoded per rendere la pagina mappa fullwidth 
+(idpaginamappa=835, eventualmente cambiare)
+*/ 
+.page-id-835 .main{
+    width: auto;
+    margin:0;
+    padding:0;
+    /*border-bottom: 20px solid #d7d7d7;*/
+}
+.page-id-835 section.main .post{
+    /*padding:0;*/
+}
+.copyright{
+    display: none
+}
+
+div.container-iw{
+    width:300px;
+}
+
+.title-iw{
+    font-size: 15px;
+}
+.adr-iw{
+    color:#666;
+}
+
+div.gm-style-iw p{
+    line-height:1.1;
+    font-size:12px;
+    padding-bottom:10px;
+}
+
+.gallery-iw{
+    margin:5px 0;
+}
+
+img.img-gallery-iw, .gallery-single-place img.img-gallery-single-place{
+    margin-right:5px;
+    margin-bottom:5px;
+    float:left;
+}
+
+img.img-gallery-iw{
+    width:50px;
+    display:none;
+}
+img.img-gallery-iw-first{
+    width:100%;
+    float: left;
+}
+
+.icon-sito-marker{
+    color:#ffffff;
+    padding-bottom:7px;
+    padding-left:2px;
+}
+
+#map-legend{
+    padding:10px;
+    background: white;
+    margin-left:10px;
+    /*border-radius: 3px;*/
+    min-width: 180px;
+}
+
+#map-legend div{
+    line-height: 1.5;
+}
+
+.textarea-single-place{
+    margin-top:20px;
+}
+
+.lm-item-list{
+    margin:20px 0;
+}
+
+
+.place-thumb{
+    float:left;
+    margin-right:20px;
+}
+.place-thumb-img{
+ width:auto;   
+}
+
+section.main .post .lm-list h2{
+    text-align: left;
+}
+.labels{
+    color:#ffffff;
+    text-align: center;
+}
+
+.title-legenda-map{
+    font-size:16px;
+    width:100%;
+}
+
+.title-cat-legenda{
+    float:right;
+    display: inline;
+    width: 80%;
+    margin-top: 3px;
+}
+
+.tab-row{
+    display:table-row
+}
+.tab-cell{
+    display:table-cell;
+    padding-right: 5px;
+}
+.cell-label{
+    color:#000000;
+}
+
+.single-places section.main h2{
+    font-size:18px;
+    font-weight: 600;
+    margin:15px 0;
+}
+
+.content-single-place.work_item p{
+    text-align: left;
+}
+
+.content-single-place.work_item img{
+    background: none;
+   margin-top:18px;
+    /*width:auto;*/
+    padding:auto;
+}
+.content-single-place.work_item {
+    font-size: 14px;
+}
+
+.nocomments{
+    display: none
+}
+
+header h1.title {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: center;
+}
+
+nav{
+    margin-top:0;
+}
